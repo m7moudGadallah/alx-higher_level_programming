@@ -2,4 +2,5 @@
 
 |Task|Files|
 |----|-----|
+|0. Run Python file|[0-run](./0-run)|
 
