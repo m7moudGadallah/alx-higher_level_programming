@@ -8,4 +8,5 @@
 |3. Print integer|[3-print_number.py](./3-print_number.py)|
 |4. Print float|[4-print_float.py](./4-print_float.py)|
 |5. Print string|[5-print_string.py](./5-print_string.py)|
+|6. Play with strings|[6-concat.py](./6-concat.py)|
 
