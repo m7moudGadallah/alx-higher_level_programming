@@ -10,4 +10,5 @@
 |5. Print string|[5-print_string.py](./5-print_string.py)|
 |6. Play with strings|[6-concat.py](./6-concat.py)|
 |7. Copy - Cut - Paste|[7-edges.py](./7-edges.py)|
+|8. Create a new sentence|[8-concat_edges.py](./8-concat_edges.py)|
 
