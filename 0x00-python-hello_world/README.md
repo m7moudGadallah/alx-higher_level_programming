@@ -14,4 +14,5 @@
 |9. Easter Egg|[9-easter_egg.py](./9-easter_egg.py)|
 |10. Linked list cycle|[lists.h](./lists.h)<br>[10-check_cycle.c](./10-check_cycle.c)|
 |11. Hello, write|[100-write.py](./100-write.py)|
+|12. Compile|[101-compile](./101-compile)|
 
