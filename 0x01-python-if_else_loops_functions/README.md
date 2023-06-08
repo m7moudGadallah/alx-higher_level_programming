@@ -11,4 +11,5 @@
 |6. Inventing is a combination of brains and materials. The more brains you use, the less material you need|[6-print_comb3.py](./6-print_comb3.py)|
 |7. islower|[7-islower.py](./7-islower.py)|
 |8. To uppercase|[8-uppercase.py](./8-uppercase.py)|
+|9. There are only 3 colors, 10 digits, and 7 notes; it's what we do with them that's important|[9-print_last_digit.py](./9-print_last_digit.py)|
 
