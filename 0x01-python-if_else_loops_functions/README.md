@@ -8,4 +8,5 @@
 |3. When I was having that alphabet soup, I never thought that it would pay off|[3-print_alphabt.py](./3-print_alphabt.py)|
 |4. Hexadecimal printing|[4-print_hexa.py](./4-print_hexa.py)|
 |5. 00...99|[5-print_comb2.py](./5-print_comb2.py)|
+|6. Inventing is a combination of brains and materials. The more brains you use, the less material you need|[6-print_comb3.py](./6-print_comb3.py)|
 
