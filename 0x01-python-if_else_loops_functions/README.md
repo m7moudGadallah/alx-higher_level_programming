@@ -14,4 +14,5 @@
 |9. There are only 3 colors, 10 digits, and 7 notes; it's what we do with them that's important|[9-print_last_digit.py](./9-print_last_digit.py)|
 |10. a + b|[10-add.py](./10-add.py)|
 |11. a ^ b|[11-pow.py](./11-pow.py)|
+|12. Fizz Buzz|[12-fizzbuzz.py](./12-fizzbuzz.py)|
 
