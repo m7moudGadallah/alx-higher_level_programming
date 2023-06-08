@@ -15,4 +15,5 @@
 |10. a + b|[10-add.py](./10-add.py)|
 |11. a ^ b|[11-pow.py](./11-pow.py)|
 |12. Fizz Buzz|[12-fizzbuzz.py](./12-fizzbuzz.py)|
+|13. Insert in sorted linked list|[lists.h](./lists.h)<br>[13-insert_number.c](./13-insert_number.c)|
 
