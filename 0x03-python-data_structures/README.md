@@ -7,4 +7,5 @@
 |2. Replace element|[2-replace_in_list.py](./2-replace_in_list.py)|
 |3. Print a list of integers... in reverse!|[3-print_reversed_list_integer.py](./3-print_reversed_list_integer.py)|
 |4. Replace in a copy|[4-new_in_list.py](./4-new_in_list.py)|
+|5. Can you C me now?|[5-no_c.py](./5-no_c.py)|
 
