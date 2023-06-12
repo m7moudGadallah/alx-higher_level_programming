@@ -8,4 +8,5 @@
 |3. Print a list of integers... in reverse!|[3-print_reversed_list_integer.py](./3-print_reversed_list_integer.py)|
 |4. Replace in a copy|[4-new_in_list.py](./4-new_in_list.py)|
 |5. Can you C me now?|[5-no_c.py](./5-no_c.py)|
+|6. Lists of lists = Matrix|[6-print_matrix_integer.py](./6-print_matrix_integer.py)|
 
