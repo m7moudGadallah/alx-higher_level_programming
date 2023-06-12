@@ -9,4 +9,5 @@
 |4. Replace in a copy|[4-new_in_list.py](./4-new_in_list.py)|
 |5. Can you C me now?|[5-no_c.py](./5-no_c.py)|
 |6. Lists of lists = Matrix|[6-print_matrix_integer.py](./6-print_matrix_integer.py)|
+|7. Tuples addition|[7-add_tuple.py](./7-add_tuple.py)|
 
