@@ -14,4 +14,5 @@
 |9. Find the max|[9-max_integer.py](./9-max_integer.py)|
 |10. Only by 2|[10-divisible_by_2.py](./10-divisible_by_2.py)|
 |11. Delete at|[11-delete_at.py](./11-delete_at.py)|
+|12. Switch|[12-switch.py](./12-switch.py)|
 
