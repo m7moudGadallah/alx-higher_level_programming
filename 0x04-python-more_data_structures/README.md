@@ -11,4 +11,5 @@
 |6. Print sorted dictionary|[6-print_sorted_dictionary.py](./6-print_sorted_dictionary.py)|
 |7. Update dictionary|[7-update_dictionary.py](./7-update_dictionary.py)|
 |8. Simple delete by key|[8-simple_delete.py](./8-simple_delete.py)|
+|9. Multiply by 2|[9-multiply_by_2.py](./9-multiply_by_2.py)|
 
