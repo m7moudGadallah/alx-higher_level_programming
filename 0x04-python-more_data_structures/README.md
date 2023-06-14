@@ -10,4 +10,5 @@
 |5. Number of keys|[5-number_keys.py](./5-number_keys.py)|
 |6. Print sorted dictionary|[6-print_sorted_dictionary.py](./6-print_sorted_dictionary.py)|
 |7. Update dictionary|[7-update_dictionary.py](./7-update_dictionary.py)|
+|8. Simple delete by key|[8-simple_delete.py](./8-simple_delete.py)|
 
