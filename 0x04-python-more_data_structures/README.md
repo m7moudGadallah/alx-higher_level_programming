@@ -8,4 +8,5 @@
 |3. Present in both|[3-common_elements.py](./3-common_elements.py)|
 |4. Only differents|[4-only_diff_elements.py](./4-only_diff_elements.py)|
 |5. Number of keys|[5-number_keys.py](./5-number_keys.py)|
+|6. Print sorted dictionary|[6-print_sorted_dictionary.py](./6-print_sorted_dictionary.py)|
 
