@@ -14,4 +14,5 @@
 |9. Multiply by 2|[9-multiply_by_2.py](./9-multiply_by_2.py)|
 |10. Best score|[10-best_score.py](./10-best_score.py)|
 |11. Multiply by using map|[11-multiply_list_map.py](./11-multiply_list_map.py)|
+|12. Roman to Integer|[12-roman_to_int.py](./12-roman_to_int.py)|
 
